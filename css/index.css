@@ -74,7 +74,7 @@ background: #3f51b5;
 }
 
 /* mo - 이미지 슬라이드 영역 */
-.slider img{width: 100%;max-width: 100%;}
+.slider img{width: 100%;max-width: 100%;margin-top: 50px;}
 
 /* mo - 디스플레이 영역 */
 .display-section > p{margin-top: 30px;}
